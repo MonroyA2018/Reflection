@@ -16,7 +16,7 @@ We are now studing the beginning of coding and doing coding by ourselves.
 ---
 
 #Reflection 2
-##2/2/2018 
+## 2/2/2018 
 This week in computing fundamentals 2, we learned how to encrypt and decrypt codes, so if there is a secret
 code that you want to know, you decrypt it with kind of like certain clues. 
 another thing we learned was to to encrypt sentences into secret codes, so if you only want certain people to know your message, you can tell them how to decrypt it. So that way other people doesn't know your secret message.
