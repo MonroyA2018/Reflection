@@ -1,22 +1,22 @@
 #Reflection 4
 ## 2/23/2018
-### This week at computing fundamentals class we went more into coding and new things.
+This week at computing fundamentals class we went more into coding and new things.
 We learned more about coding. Mr Gold taught us how to put folders into folders by using coding in "Ubuntu".
 He also taught us how to clone codes to send one message or file from Ubuntu, to a website called Github.
 So our files and messages, go from coding, to an actual website.
 
+---
 
 #Reflectio 3
 ## 2/16/2018
-### This week in computing fundamentals class we review more about decrypting and encrypting secret codes.
+This week in computing fundamentals class we review more about decrypting and encrypting secret codes.
 But we learned something new this week. We studied a program that teach us how to "code". Coding is something that every computer does, everytime we send a message or write something in our computers, that function is done by a big amount of codes that makes the computer work. 
 We are now studing the beginning of coding and doing coding by ourselves.
 
 ---
 
 #Reflection 2
-##2/2/2018
-This week I learned 
+##2/2/2018 
 This week in computing fundamentals 2, we learned how to encrypt and decrypt codes, so if there is a secret
 code that you want to know, you decrypt it with kind of like certain clues. 
 another thing we learned was to to encrypt sentences into secret codes, so if you only want certain people to know your message, you can tell them how to decrypt it. So that way other people doesn't know your secret message.
