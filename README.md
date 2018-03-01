@@ -1,3 +1,11 @@
+# Reflection 6
+## 3/01/2018
+This week in computing fundamentals class we worked and went more into coding, we learned how to use the "XML" code and we also worked on our reflections assignment in "Ubuntu".
+At first I was a little bit confused but after a while practicing and memorizing the codes I learned how to do it properly.
+I've been working a lot on doing the coding properly and know I think that I can finally do it correctly
+
+---
+
 # Reflection 4
 ## 2/23/2018
 This week at computing fundamentals class we went more into coding and new things.
