@@ -1,3 +1,12 @@
+# Refection 10
+## 4/26/2018
+This week in computing fundamentals class I worked a lot on my google fiday project.
+I also worked a lot on my coding skills in codeacademy for me to improve on coding.
+I finished the course and I improved, I also worked on my Profile project
+I create a bootsrap template in which you can see all of my academy facts and my awards.
+
+---
+
 # Reflection 6
 ## 3/01/2018
 This week in computing fundamentals class we worked and went more into coding, we learned how to use the "XML" code and we also worked on our reflections assignment in "Ubuntu".
