@@ -1,3 +1,10 @@
+# Reflection 11
+## 5/01/2018
+Today I modified my bootstrap by adding some information about my rank and my leadership position in bravo company.
+I hope tomorrow I can make it look nice by adding some stuff.
+
+---
+
 # Refection 10
 ## 4/26/2018
 This week in computing fundamentals class I worked a lot on my google fiday project.
