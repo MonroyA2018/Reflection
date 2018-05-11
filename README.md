@@ -1,3 +1,11 @@
+# Reflectio 15
+## 5/11/2018
+I've been working on java script and some oder coding too.
+It has been really intresting to learn about coding in the class.
+I've also been working on my ggogle friday project and I have a lot done.
+It's going to be really intresting what is for us nexta week in computing fundamentals 2. 
+
+
 # Reflection 11
 ## 5/01/2018
 Today I modified my bootstrap by adding some information about my rank and my leadership position in bravo company.
