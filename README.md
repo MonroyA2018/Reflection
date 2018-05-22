@@ -1,10 +1,21 @@
-# Reflectio 15
+# Final Reflection!!
+## 5/15/2018
+Along the year in computing fundamentals two I have been working in a lot of things, like codes, HTML, Java Script, Creating Web pages, etc.
+At yhe beggining of the year I didn't think that I was able to handle the work that I was given, I even talked to Mr. Gold about switching classes.
+I worked for a lot of time, I practice on my own and I even came to tutorial to ask for help because I didn't understand any of the work that I was given.
+Right now I really think I'm capable of doing the tasks that Mr. Gold give me in class, I'm well prepared and I know I can do it now that I know what I am capable of doing.
+Thank you Mr. Gold!!
+
+---
+
+# Reflection 15
 ## 5/11/2018
 I've been working on java script and some oder coding too.
 It has been really intresting to learn about coding in the class.
 I've also been working on my ggogle friday project and I have a lot done.
 It's going to be really intresting what is for us nexta week in computing fundamentals 2. 
 
+---
 
 # Reflection 11
 ## 5/01/2018
